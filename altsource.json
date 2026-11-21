@@ -1,8 +1,8 @@
 {
-  "name": "LiLite 上游源",
+  "name": "自用软件源",
   "identifier": "ai.muse.lilite.upstream",
-  "subtitle": "LiLite 上游原版（liuliuya2333）GitHub 发布订阅源",
-  "description": "订阅后在软件源中心直接下载 LiLite 上游原版未签名 IPA，新版发布后自动更新列表。原版最低 iOS 17（v1.0.15 起），与 iOS 18 移植版是两个不同的包。",
+  "subtitle": "LiLite 上游原版 + PiliNara（tunecc fork）",
+  "description": "LCSign 软件源：LiLite 上游原版（liuliuya2333）与 PiliNara（tunecc 的 fork），下载地址均直指各自 GitHub 发布页的未签名 IPA，下载后在 LCSign 里用自己的证书签名安装。",
   "apps": [
     {
       "name": "LiLite",
@@ -173,6 +173,332 @@
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/guoc27887-ux/lilite-source/main/icon.png"
+    },
+    {
+      "name": "PiliNara",
+      "bundleIdentifier": "com.example.pilinara",
+      "developerName": "tunecc",
+      "subtitle": "哔哩哔哩第三方客户端 PiliNara（tunecc fork）",
+      "localizedDescription": "PiliNara 的 tunecc fork 版，未签名 IPA，最低 iOS 15（最新版实测），下载后在 LCSign 里签名安装。",
+      "iconURL": "https://raw.githubusercontent.com/guoc27887-ux/lilite-source/main/pilinara-icon.png",
+      "versions": [
+        {
+          "version": "2.2.0",
+          "buildVersion": "6382",
+          "date": "2026-11-09T10:05:29Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.2.0%2B1-20261109.1/PiliNara_ios_2.2.0%2B6382_unsigned.ipa",
+          "size": 26837983,
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "2.2.0",
+          "buildVersion": "6381",
+          "date": "2026-11-09T09:38:45Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.2.0%2B1-20261109/PiliNara_ios_2.2.0%2B6381_unsigned.ipa",
+          "size": 26837609
+        },
+        {
+          "version": "2.2.0",
+          "buildVersion": "6343",
+          "date": "2026-11-08T14:11:12Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.2.0%2B1-20261108.1/PiliNara_ios_2.2.0%2B6343_unsigned.ipa",
+          "size": 26764864
+        },
+        {
+          "version": "2.2.0",
+          "buildVersion": "6342",
+          "date": "2026-11-08T11:55:25Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.2.0%2B1-20261108/PiliNara_ios_2.2.0%2B6342_unsigned.ipa",
+          "size": 26765537
+        },
+        {
+          "version": "2.2.0",
+          "buildVersion": "6340",
+          "date": "2026-11-06T08:24:55Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.2.0%2B1-20261106.2/PiliNara_ios_2.2.0%2B6340_unsigned.ipa",
+          "size": 26759615
+        },
+        {
+          "version": "2.2.0",
+          "buildVersion": "6339",
+          "date": "2026-11-06T07:47:34Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.2.0%2B1-20261106.1/PiliNara_ios_2.2.0%2B6339_unsigned.ipa",
+          "size": 26759450
+        },
+        {
+          "version": "2.2.0",
+          "buildVersion": "6339",
+          "date": "2026-11-06T07:14:31Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.2.0%2B1-20261106/PiliNara_ios_2.2.0%2B6339_unsigned.ipa",
+          "size": 26759450
+        },
+        {
+          "version": "2.2.0",
+          "buildVersion": "6337",
+          "date": "2026-11-05T04:20:00Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.2.0%2B1-20261105/PiliNara_ios_2.2.0%2B6337_unsigned.ipa",
+          "size": 26752828
+        },
+        {
+          "version": "2.1.6",
+          "buildVersion": "6210",
+          "date": "2026-10-18T06:46:39Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.6%2B1-20261018/PiliNara_ios_2.1.6%2B6210_unsigned.ipa",
+          "size": 26212875
+        },
+        {
+          "version": "2.1.6",
+          "buildVersion": "6184",
+          "date": "2026-10-15T11:06:07Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.6%2B1-20261015/PiliNara_ios_2.1.6%2B6184_unsigned.ipa",
+          "size": 26116810
+        },
+        {
+          "version": "2.1.5",
+          "buildVersion": "6089",
+          "date": "2026-10-12T01:24:29Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.5%2B1-20261012/PiliNara_ios_2.1.5%2B6089_unsigned.ipa",
+          "size": 25786246
+        },
+        {
+          "version": "2.1.5",
+          "buildVersion": "6087",
+          "date": "2026-10-11T12:05:21Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.5%2B1-20261011.2/PiliNara_ios_2.1.5%2B6087_unsigned.ipa",
+          "size": 25788038
+        },
+        {
+          "version": "2.1.5",
+          "buildVersion": "6085",
+          "date": "2026-10-11T10:48:10Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.5%2B1-20261011.1/PiliNara_ios_2.1.5%2B6085_unsigned.ipa",
+          "size": 25781132
+        },
+        {
+          "version": "2.1.5",
+          "buildVersion": "6082",
+          "date": "2026-10-11T09:02:13Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.5%2B1-20261011/PiliNara_ios_2.1.5%2B6082_unsigned.ipa",
+          "size": 25784291
+        },
+        {
+          "version": "2.1.5",
+          "buildVersion": "6080",
+          "date": "2026-10-06T12:02:25Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.5%2B1-20261006.1/PiliNara_ios_2.1.5%2B6080_unsigned.ipa",
+          "size": 25687565
+        },
+        {
+          "version": "2.1.5",
+          "buildVersion": "6078",
+          "date": "2026-10-06T08:44:47Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.5%2B1-20261006/PiliNara_ios_2.1.5%2B6078_unsigned.ipa",
+          "size": 25687257
+        },
+        {
+          "version": "2.1.5",
+          "buildVersion": "6074",
+          "date": "2026-09-28T08:44:47Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.5%2B1-20260928/PiliNara_ios_2.1.5%2B6074_unsigned.ipa",
+          "size": 25679727
+        },
+        {
+          "version": "2.1.5",
+          "buildVersion": "6072",
+          "date": "2026-09-27T13:51:59Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.5%2B1-20260927.1/PiliNara_ios_2.1.5%2B6072_unsigned.ipa",
+          "size": 25673058
+        },
+        {
+          "version": "2.1.3",
+          "buildVersion": "5965",
+          "date": "2026-09-16T08:50:05Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.3%2B1-20260916/PiliNara_ios_2.1.3%2B5965_unsigned.ipa",
+          "size": 25593064
+        },
+        {
+          "version": "2.1.3",
+          "buildVersion": "5963",
+          "date": "2026-09-12T08:06:52Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.3%2B1-20260912/PiliNara_ios_2.1.3%2B5963_unsigned.ipa",
+          "size": 25591660
+        },
+        {
+          "version": "2.1.3",
+          "buildVersion": "5960",
+          "date": "2026-09-10T09:39:09Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.3%2B1-20260910/PiliNara_ios_2.1.3%2B5960_unsigned.ipa",
+          "size": 25588754
+        },
+        {
+          "version": "2.1.2",
+          "buildVersion": "5891",
+          "date": "2026-09-08T04:54:42Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.2%2B1-20260908/PiliNara_ios_2.1.2%2B5891_unsigned.ipa",
+          "size": 25515886
+        },
+        {
+          "version": "2.1.2",
+          "buildVersion": "5886",
+          "date": "2026-09-02T08:08:32Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.2%2B1-20260902/PiliNara_ios_2.1.2%2B5886_unsigned.ipa",
+          "size": 25497125
+        },
+        {
+          "version": "2.1.2",
+          "buildVersion": "5883",
+          "date": "2026-08-30T12:24:44Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.2%2B1-20260830.1/PiliNara_ios_2.1.2%2B5883_unsigned.ipa",
+          "size": 25503583
+        },
+        {
+          "version": "2.1.0",
+          "buildVersion": "5764",
+          "date": "2026-08-23T07:13:17Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.0%2B1-20260823/PiliNara_ios_2.1.0%2B5764_unsigned.ipa",
+          "size": 25273218
+        },
+        {
+          "version": "2.1.0",
+          "buildVersion": "5750",
+          "date": "2026-08-16T04:18:30Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.0%2B1-20260816/PiliNara_ios_2.1.0%2B5750_unsigned.ipa",
+          "size": 25238103
+        },
+        {
+          "version": "2.1.0",
+          "buildVersion": "5748",
+          "date": "2026-08-14T14:59:31Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.0%2B1-20260814.1/PiliNara_ios_2.1.0%2B5748_unsigned.ipa",
+          "size": 25239192
+        },
+        {
+          "version": "2.1.0",
+          "buildVersion": "5744",
+          "date": "2026-08-14T12:51:53Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.0%2B1-20260814/PiliNara_ios_2.1.0%2B5744_unsigned.ipa",
+          "size": 25238584
+        },
+        {
+          "version": "2.1.0",
+          "buildVersion": "5596",
+          "date": "2026-07-17T03:17:40Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.0%2B1-20260717.1/PiliNara_ios_2.1.0%2B5596_unsigned.ipa",
+          "size": 24766931
+        },
+        {
+          "version": "2.1.0",
+          "buildVersion": "5594",
+          "date": "2026-07-17T02:56:02Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.0%2B1-20260717/PiliNara_ios_2.1.0%2B5594_unsigned.ipa",
+          "size": 24767176
+        },
+        {
+          "version": "2.1.0",
+          "buildVersion": "5579",
+          "date": "2026-07-14T01:17:49Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.1.0%2B1-20260714/PiliNara_ios_2.1.0%2B5579_unsigned.ipa",
+          "size": 24757263
+        },
+        {
+          "version": "2.0.9",
+          "buildVersion": "5566",
+          "date": "2026-07-12T03:46:41Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.0.9%2B1-20260712/PiliNara_ios_2.0.9%2B5566_unsigned.ipa",
+          "size": 24739587
+        },
+        {
+          "version": "2.0.9",
+          "buildVersion": "5461",
+          "date": "2026-06-18T08:28:20Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.0.9%2B1-20260618/PiliNara_ios_2.0.9%2B5461_unsigned.ipa",
+          "size": 24666102
+        },
+        {
+          "version": "2.0.9",
+          "buildVersion": "5452",
+          "date": "2026-06-16T12:25:06Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.0.9%2B1-20260616.1/PiliNara_ios_2.0.9%2B5452_unsigned.ipa",
+          "size": 24667082
+        },
+        {
+          "version": "2.0.8",
+          "buildVersion": "5384",
+          "date": "2026-06-10T12:52:37Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/2.0.7.4-Hyacinthia.2.1.1.1.1/PiliNara_ios_2.0.8%2B5384_unsigned.ipa",
+          "size": 24612661
+        },
+        {
+          "version": "2.0.8",
+          "buildVersion": "5381",
+          "date": "2026-06-07T00:42:56Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/2.0.7.4-Hyacinthia.2.1.1/PiliNara_ios_2.0.8%2B5381_unsigned.ipa",
+          "size": 24688483
+        },
+        {
+          "version": "2.0.8",
+          "buildVersion": "5378",
+          "date": "2026-06-06T09:05:19Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/2.0.7.4-Hyacinthia.2.1/PiliNara_ios_2.0.8%2B5378_unsigned.ipa",
+          "size": 24687988
+        },
+        {
+          "version": "2.0.7",
+          "buildVersion": "5327",
+          "date": "2026-05-28T11:42:54Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/2.0.7.4-Hyacinthia.2/PiliNara_ios_2.0.7%2B5327_unsigned.ipa",
+          "size": 24846296
+        },
+        {
+          "version": "2.0.7",
+          "buildVersion": "5323",
+          "date": "2026-05-26T07:05:06Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/sync-2.0.7%2B1-20260514.2.1.1.1.1.1.1/PiliNara_ios_2.0.7%2B5323_unsigned.ipa",
+          "size": 24839763
+        },
+        {
+          "version": "2.0.7",
+          "buildVersion": "5321",
+          "date": "2026-05-26T06:20:10Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/sync-2.0.7%2B1-20260514.2.1.1.1.1.1/PiliNara_ios_2.0.7%2B5321_unsigned.ipa",
+          "size": 24839751
+        },
+        {
+          "version": "2.0.7",
+          "buildVersion": "5271",
+          "date": "2026-05-17T06:39:22Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/sync-2.0.7%2B1-20260514.2.1.1.1.1/PiliNara_ios_2.0.7%2B5271_unsigned.ipa",
+          "size": 24977038
+        },
+        {
+          "version": "2.0.7",
+          "buildVersion": "5269",
+          "date": "2026-05-16T15:01:41Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/sync-2.0.7%2B1-20260514.2.1.1.1/PiliNara_ios_2.0.7%2B5269_unsigned.ipa",
+          "size": 24976911
+        },
+        {
+          "version": "2.0.7",
+          "buildVersion": "5234",
+          "date": "2026-05-15T06:51:09Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/sync-2.0.7%2B1-20260514.2.1.1/PiliNara_ios_2.0.7%2B5234_unsigned.ipa",
+          "size": 25101989
+        },
+        {
+          "version": "2.0.7",
+          "buildVersion": "5231",
+          "date": "2026-05-15T04:36:03Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/sync-2.0.7%2B1-20260514.2.1/PiliNara_ios_2.0.7%2B5231_unsigned.ipa",
+          "size": 25079265
+        },
+        {
+          "version": "2.0.7",
+          "buildVersion": "5223",
+          "date": "2026-05-14T16:08:50Z",
+          "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/sync-2.0.7%2B1-20260514.2/PiliNara_ios_2.0.7%2B5223_unsigned.ipa",
+          "size": 25079417
+        }
+      ]
     }
   ],
   "iconURL": "https://raw.githubusercontent.com/guoc27887-ux/lilite-source/main/icon.png"
