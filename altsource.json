@@ -1,0 +1,179 @@
+{
+  "name": "LiLite 上游源",
+  "identifier": "ai.muse.lilite.upstream",
+  "subtitle": "LiLite 上游原版（liuliuya2333）GitHub 发布订阅源",
+  "description": "订阅后在软件源中心直接下载 LiLite 上游原版未签名 IPA，新版发布后自动更新列表。原版最低 iOS 17（v1.0.15 起），与 iOS 18 移植版是两个不同的包。",
+  "apps": [
+    {
+      "name": "LiLite",
+      "bundleIdentifier": "com.liuliuya.PiliNative",
+      "developerName": "liuliuya2333",
+      "subtitle": "哔哩哔哩第三方客户端（上游原版）",
+      "localizedDescription": "LiLite 上游原版，未签名，下载后在 LCSign 里用自己的证书签名安装。v1.0.15 起最低 iOS 17。",
+      "versions": [
+        {
+          "version": "1.0.24",
+          "date": "2026-11-21T01:08:27Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.24/LiLite-1.0.24-unsigned.ipa",
+          "size": 117700532,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.23",
+          "date": "2026-11-20T17:32:37Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.23/LiLite-1.0.23-unsigned.ipa",
+          "size": 117684148,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.22",
+          "date": "2026-11-20T10:07:20Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.22/LiLite-1.0.22-unsigned.ipa",
+          "size": 116795428,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.21",
+          "date": "2026-11-20T06:06:00Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.21/LiLite-1.0.21-unsigned.ipa",
+          "size": 116328788,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.20",
+          "date": "2026-11-20T03:03:33Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.20/LiLite-1.0.20-unsigned.ipa",
+          "size": 115726180,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.19",
+          "date": "2026-11-19T18:09:56Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.19/LiLite-1.0.19-unsigned.ipa",
+          "size": 115589636,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.18",
+          "date": "2026-11-19T10:43:36Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.18/LiLite-1.0.18-unsigned.ipa",
+          "size": 112257572,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.17",
+          "date": "2026-11-19T07:08:54Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.17/LiLite-1.0.17-unsigned.ipa",
+          "size": 112157012,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.16",
+          "date": "2026-11-19T06:43:23Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.16/LiLite-1.0.16-unsigned.ipa",
+          "size": 112156740,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.15",
+          "date": "2026-11-19T04:39:05Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.15/LiLite-1.0.15-unsigned.ipa",
+          "size": 112062932,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "1.0.14",
+          "date": "2026-11-19T02:49:26Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.14/LiLite-1.0.14-unsigned.ipa",
+          "size": 109988756
+        },
+        {
+          "version": "1.0.13",
+          "date": "2026-11-18T15:21:27Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.13/LiLite-1.0.13-unsigned.ipa",
+          "size": 105773220
+        },
+        {
+          "version": "1.0.12",
+          "date": "2026-11-18T14:28:26Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.12/LiLite-1.0.12-unsigned.ipa",
+          "size": 105703300
+        },
+        {
+          "version": "1.0.11",
+          "date": "2026-11-18T14:01:28Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.11/LiLite-1.0.11-unsigned.ipa",
+          "size": 105681828
+        },
+        {
+          "version": "1.0.10",
+          "date": "2026-11-18T13:05:27Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.10/LiLite-1.0.10-unsigned.ipa",
+          "size": 105719028
+        },
+        {
+          "version": "1.0.9",
+          "date": "2026-11-18T12:37:59Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.9/LiLite-1.0.9-unsigned.ipa",
+          "size": 105735411
+        },
+        {
+          "version": "1.0.8",
+          "date": "2026-11-18T12:05:12Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.8/LiLite-1.0.8-unsigned.ipa",
+          "size": 105709587
+        },
+        {
+          "version": "1.0.7",
+          "date": "2026-11-18T11:43:11Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.7/LiLite-1.0.7-unsigned.ipa",
+          "size": 105628803
+        },
+        {
+          "version": "1.0.6",
+          "date": "2026-11-18T11:05:56Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.6/LiLite-1.0.6-unsigned.ipa",
+          "size": 105610226
+        },
+        {
+          "version": "1.0.5",
+          "date": "2026-11-18T10:38:30Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.5/LiLite-1.0.5-unsigned.ipa",
+          "size": 105626258
+        },
+        {
+          "version": "1.0.4",
+          "date": "2026-11-18T06:55:14Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.4/LiLite-1.0.4-unsigned.ipa",
+          "size": 105690610
+        },
+        {
+          "version": "1.0.3",
+          "date": "2026-11-18T05:58:16Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.3/LiLite-1.0.3-unsigned.ipa",
+          "size": 107731810
+        },
+        {
+          "version": "1.0.2",
+          "date": "2026-11-18T04:11:23Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.2/LiLite-1.0.2-unsigned.ipa",
+          "size": 107614498
+        },
+        {
+          "version": "1.0.1",
+          "date": "2026-11-18T03:12:54Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.1/LiLite-1.0.1-unsigned.ipa",
+          "size": 103335178
+        },
+        {
+          "version": "1.0.0",
+          "date": "2026-11-17T13:23:35Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.0/LiLite-1.0.0-unsigned.ipa",
+          "size": 101924906
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/guoc27887-ux/lilite-source/main/icon.png"
+    }
+  ],
+  "iconURL": "https://raw.githubusercontent.com/guoc27887-ux/lilite-source/main/icon.png"
+}
