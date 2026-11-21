@@ -172,7 +172,12 @@
           "size": 101924906
         }
       ],
-      "iconURL": "https://raw.githubusercontent.com/guoc27887-ux/lilite-source/main/icon.png"
+      "iconURL": "https://raw.githubusercontent.com/guoc27887-ux/lilite-source/main/icon.png",
+      "version": "1.0.24",
+      "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.24/LiLite-1.0.24-unsigned.ipa",
+      "size": 117700532,
+      "versionDate": "2026-11-21T01:08:27Z",
+      "minOSVersion": "17.0"
     },
     {
       "name": "PiliNara",
@@ -498,7 +503,13 @@
           "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/sync-2.0.7%2B1-20260514.2/PiliNara_ios_2.0.7%2B5223_unsigned.ipa",
           "size": 25079417
         }
-      ]
+      ],
+      "version": "2.2.0",
+      "versionBuild": "6382",
+      "downloadURL": "https://github.com/tunecc/PiliNara/releases/download/v2.2.0%2B1-20261109.1/PiliNara_ios_2.2.0%2B6382_unsigned.ipa",
+      "size": 26837983,
+      "versionDate": "2026-11-09T10:05:29Z",
+      "minOSVersion": "15.0"
     }
   ],
   "iconURL": "https://raw.githubusercontent.com/guoc27887-ux/lilite-source/main/icon.png"
