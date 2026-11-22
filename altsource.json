@@ -546,6 +546,72 @@
       "size": 19636062,
       "versionDate": "2026-11-22T14:18:25Z",
       "minOSVersion": "18.0"
+    },
+    {
+      "name": "TiebaPure",
+      "bundleIdentifier": "dev.infinityf4p.tiebapure",
+      "developerName": "infinityf4p",
+      "subtitle": "第三方贴吧客户端（上游原版）",
+      "localizedDescription": "TiebaPure 上游原版，未签名，在 LCSign 里用自己的证书签名安装。原生 SwiftUI 贴吧客户端，支持浏览、搜索、收藏与贴吧签到，最低 iOS 16.4。发帖与回复为实验性功能，走非官方接口，有触发百度风控的风险。",
+      "versions": [
+        {
+          "version": "1.4.15",
+          "date": "2026-10-10T06:07:37Z",
+          "downloadURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/download/v1.4.15/TiebaPure-v1.4.15-unsigned.ipa",
+          "size": 9347637,
+          "minOSVersion": "16.4"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/guoc27887-ux/lilite-source/main/tiebapure-icon.png",
+      "version": "1.4.15",
+      "downloadURL": "https://github.com/infinityf4p/TiebaPure-iOS/releases/download/v1.4.15/TiebaPure-v1.4.15-unsigned.ipa",
+      "size": 9347637,
+      "versionDate": "2026-10-10T06:07:37Z",
+      "minOSVersion": "16.4"
+    },
+    {
+      "name": "知乎--",
+      "bundleIdentifier": "com.huamurui.ZhihuMinusMinus",
+      "developerName": "huamurui",
+      "subtitle": "轻量简洁的第三方知乎客户端（上游原版）",
+      "localizedDescription": "知乎-- 上游原版，未签名，在 LCSign 里用自己的证书签名安装。轻量、简洁的第三方知乎客户端，最低 iOS 16.4。",
+      "versions": [
+        {
+          "version": "0.10.0",
+          "date": "2026-11-21T03:09:18Z",
+          "downloadURL": "https://github.com/huamurui/zhihu-minus-minus/releases/download/v0.10.0/zhihu-minus-minus-v0.10.0-unsigned.ipa",
+          "size": 14901422,
+          "minOSVersion": "16.4"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/guoc27887-ux/lilite-source/main/zhihu-icon.png",
+      "version": "0.10.0",
+      "downloadURL": "https://github.com/huamurui/zhihu-minus-minus/releases/download/v0.10.0/zhihu-minus-minus-v0.10.0-unsigned.ipa",
+      "size": 14901422,
+      "versionDate": "2026-11-21T03:09:18Z",
+      "minOSVersion": "16.4"
+    },
+    {
+      "name": "c001apk",
+      "bundleIdentifier": "com.example.c001apk.flutter",
+      "developerName": "TG-Twilight",
+      "subtitle": "轻量非官方酷安客户端（上游原版）",
+      "localizedDescription": "c001apk 上游原版，未签名，在 LCSign 里用自己的证书签名安装。轻量的非官方酷安客户端，最低 iOS 15.0。",
+      "versions": [
+        {
+          "version": "1.5.2",
+          "date": "2026-11-08T03:32:50Z",
+          "downloadURL": "https://github.com/TG-Twilight/c001apk/releases/download/1.5.2-release/c001apk-1.5.2%2B20261108-ios-arm64-unsigned.ipa",
+          "size": 13841352,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/guoc27887-ux/lilite-source/main/c001apk-icon.png",
+      "version": "1.5.2",
+      "downloadURL": "https://github.com/TG-Twilight/c001apk/releases/download/1.5.2-release/c001apk-1.5.2%2B20261108-ios-arm64-unsigned.ipa",
+      "size": 13841352,
+      "versionDate": "2026-11-08T03:32:50Z",
+      "minOSVersion": "15.0"
     }
   ],
   "iconURL": "https://raw.githubusercontent.com/guoc27887-ux/lilite-source/main/icon.png"
