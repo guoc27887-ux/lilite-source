@@ -533,18 +533,18 @@
       "localizedDescription": "Beans Music 2.0.3 的 iOS 18 移植版，未签名，在 LCSign 里用自己的证书签名安装。已带放歌修复（ikun 与 1010-mobile 两个音源），最低 iOS 18.0。iOS 18 上液态玻璃以普通材质呈现，锁屏动态封面不生效。",
       "versions": [
         {
-          "version": "2.0.3",
-          "date": "2026-11-22T15:07:35Z",
-          "downloadURL": "https://github.com/guoc27887-ux/Beans-Music/releases/download/v2.0.3-ios18-lt/Beans-2.0.3-ios18-listen-together-unsigned.ipa",
-          "size": 19756368,
+          "version": "2.0.4",
+          "date": "2026-11-22T15:39:28Z",
+          "downloadURL": "https://github.com/guoc27887-ux/Beans-Music/releases/download/v2.0.4-ios18-lt/Beans-2.0.4-ios18-listen-together-unsigned.ipa",
+          "size": 19759904,
           "minOSVersion": "18.0"
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/guoc27887-ux/lilite-source/main/beans-icon.png",
-      "version": "2.0.3",
-      "downloadURL": "https://github.com/guoc27887-ux/Beans-Music/releases/download/v2.0.3-ios18-lt/Beans-2.0.3-ios18-listen-together-unsigned.ipa",
-      "size": 19756368,
-      "versionDate": "2026-11-22T15:07:35Z",
+      "version": "2.0.4",
+      "downloadURL": "https://github.com/guoc27887-ux/Beans-Music/releases/download/v2.0.4-ios18-lt/Beans-2.0.4-ios18-listen-together-unsigned.ipa",
+      "size": 19759904,
+      "versionDate": "2026-11-22T15:39:28Z",
       "minOSVersion": "18.0"
     },
     {
