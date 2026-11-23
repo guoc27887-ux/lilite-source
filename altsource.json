@@ -540,6 +540,14 @@
       "localizedDescription": "Beans Music 2.0.3 的 iOS 18 移植版，未签名，在 LCSign 里用自己的证书签名安装。已带放歌修复（ikun 与 1010-mobile 两个音源），最低 iOS 18.0。iOS 18 上液态玻璃以普通材质呈现，锁屏动态封面不生效。",
       "versions": [
         {
+          "version": "2.0.9",
+          "date": "2026-11-23T01:34:24Z",
+          "localizedDescription": "修复汽水扫码登录二维码空白；汽水搜单曲新增安卓端搜索兜底。",
+          "downloadURL": "https://github.com/guoc27887-ux/Beans-Music/releases/download/v2.0.9-ios18-lt/Beans-2.0.9-ios18-listen-together-unsigned.ipa",
+          "size": 20322116,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "2.0.8",
           "date": "2026-11-23T01:02:56Z",
           "downloadURL": "https://github.com/guoc27887-ux/Beans-Music/releases/download/v2.0.8-ios18-lt/Beans-2.0.8-ios18-listen-together-unsigned.ipa",
@@ -554,12 +562,12 @@
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/guoc27887-ux/lilite-source/main/beans-icon.png",
-      "version": "2.0.8",
-      "downloadURL": "https://github.com/guoc27887-ux/Beans-Music/releases/download/v2.0.8-ios18-lt/Beans-2.0.8-ios18-listen-together-unsigned.ipa",
-      "size": 20314415,
-      "versionDate": "2026-11-23T01:02:56Z",
+      "version": "2.0.9",
+      "downloadURL": "https://github.com/guoc27887-ux/Beans-Music/releases/download/v2.0.9-ios18-lt/Beans-2.0.9-ios18-listen-together-unsigned.ipa",
+      "size": 20322116,
+      "versionDate": "2026-11-23T01:34:24Z",
       "minOSVersion": "18.0",
-      "versionDescription": "汽水音乐改直连：搜歌/搜歌单/搜专辑/歌手、歌单详情与推荐歌单、歌词、评论、每日推荐；新增汽水扫码登录与「我的汽水歌单」；修复汽水搜索因网关故障返回空结果。"
+      "versionDescription": "修复汽水扫码登录二维码空白；汽水搜单曲新增安卓端搜索兜底。"
     },
     {
       "name": "TiebaPure",
