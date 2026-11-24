@@ -755,6 +755,50 @@
    "size": 1392560,
    "versionDate": "2026-11-23T09:55:14Z",
    "minOSVersion": "15.0"
+  },
+  {
+   "name": "DouDuo",
+   "bundleIdentifier": "me.rrmm.douduo",
+   "developerName": "81199000",
+   "subtitle": "抖音第三方客户端（iOS 18 移植版）",
+   "localizedDescription": "DouDuo 上游 v1.7.2 的 iOS 18 移植版（上游原版最低 iOS 26），未签名，在 LCSign 里用自己的证书签名安装。液态玻璃在 iOS 18 回退为毛玻璃效果。尚未真机验收。",
+   "versions": [
+    {
+     "version": "1.7.2",
+     "date": "2026-11-24",
+     "downloadURL": "https://github.com/guoc27887-ux/lilite-source/releases/download/doudou-1.7.2-ios18/DouDuo-1.7.2-ios18-unsigned.ipa",
+     "size": 54373986,
+     "minOSVersion": "18.0"
+    }
+   ],
+   "iconURL": "https://raw.githubusercontent.com/guoc27887-ux/lilite-source/main/doudou-icon.png",
+   "version": "1.7.2",
+   "downloadURL": "https://github.com/guoc27887-ux/lilite-source/releases/download/doudou-1.7.2-ios18/DouDuo-1.7.2-ios18-unsigned.ipa",
+   "size": 54373986,
+   "versionDate": "2026-11-24",
+   "minOSVersion": "18.0"
+  },
+  {
+   "name": "GuoDuo",
+   "bundleIdentifier": "me.rrmm.hongguo",
+   "developerName": "81199000",
+   "subtitle": "红果短剧第三方客户端（iOS 18 移植版）",
+   "localizedDescription": "GuoDuo 上游 v0.7.0 的 iOS 18 移植版（上游原版最低 iOS 18.4），未签名，在 LCSign 里用自己的证书签名安装。build 31 已修复推荐页回滑黑屏，真机确认。",
+   "versions": [
+    {
+     "version": "0.7.0",
+     "date": "2026-11-24",
+     "downloadURL": "https://github.com/guoc27887-ux/lilite-source/releases/download/guoduo-0.7.0-ios18/GuoDuo-0.7.0-ios18-unsigned.ipa",
+     "size": 4127135,
+     "minOSVersion": "18.0"
+    }
+   ],
+   "iconURL": "https://raw.githubusercontent.com/guoc27887-ux/lilite-source/main/guoduo-icon.png",
+   "version": "0.7.0",
+   "downloadURL": "https://github.com/guoc27887-ux/lilite-source/releases/download/guoduo-0.7.0-ios18/GuoDuo-0.7.0-ios18-unsigned.ipa",
+   "size": 4127135,
+   "versionDate": "2026-11-24",
+   "minOSVersion": "18.0"
   }
  ],
  "iconURL": "https://raw.githubusercontent.com/guoc27887-ux/lilite-source/main/icon.png"
