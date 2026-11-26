@@ -790,8 +790,15 @@
       "bundleIdentifier": "me.rrmm.hongguo",
       "developerName": "81199000",
       "subtitle": "红果短剧第三方客户端（iOS 18 移植版）",
-      "localizedDescription": "GuoDuo 上游 v0.7.0 的 iOS 18 移植版（上游原版最低 iOS 18.4），未签名，在 LCSign 里用自己的证书签名安装。build 31 已修复推荐页回滑黑屏，真机确认。",
+      "localizedDescription": "GuoDuo 上游 v1.0.0 的 iOS 18 移植版（上游原版最低 iOS 18.4），未签名，在 LCSign 里用自己的证书签名安装。build 32；注意：0.7.0 的推荐页回滑黑屏修复未搬到 1.0.0，播放器大改、电视联动为新代码，需真机验证。",
       "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-27",
+          "downloadURL": "https://github.com/guoc27887-ux/lilite-source/releases/download/guoduo-1.0.0-ios18/GuoDuo-1.0.0-ios18-unsigned.ipa",
+          "size": 5284746,
+          "minOSVersion": "18.0"
+        },
         {
           "version": "0.7.0",
           "date": "2026-11-24",
@@ -801,10 +808,10 @@
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/guoc27887-ux/lilite-source/main/guoduo-icon.png",
-      "version": "0.7.0",
-      "downloadURL": "https://github.com/guoc27887-ux/lilite-source/releases/download/guoduo-0.7.0-ios18/GuoDuo-0.7.0-ios18-unsigned.ipa",
-      "size": 4127135,
-      "versionDate": "2026-11-24",
+      "version": "1.0.0",
+      "downloadURL": "https://github.com/guoc27887-ux/lilite-source/releases/download/guoduo-1.0.0-ios18/GuoDuo-1.0.0-ios18-unsigned.ipa",
+      "size": 5284746,
+      "versionDate": "2026-11-27",
       "minOSVersion": "18.0"
     },
     {
