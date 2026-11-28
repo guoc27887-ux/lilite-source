@@ -12,6 +12,13 @@
       "localizedDescription": "LiLite 上游原版，未签名，下载后在 LCSign 里用自己的证书签名安装。v1.0.15 起最低 iOS 17。",
       "versions": [
         {
+          "version": "1.0.45",
+          "date": "2026-11-28T02:50:14Z",
+          "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.45/LiLite-1.0.45-unsigned.ipa",
+          "size": 29104183,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.43",
           "date": "2026-11-28T02:13:14Z",
           "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.43/LiLite-1.0.43-unsigned.ipa",
@@ -292,10 +299,10 @@
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/guoc27887-ux/lilite-source/main/icon.png",
-      "version": "1.0.43",
-      "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.43/LiLite-1.0.43-unsigned.ipa",
-      "size": 29102833,
-      "versionDate": "2026-11-28T02:13:14Z",
+      "version": "1.0.45",
+      "downloadURL": "https://github.com/liuliuya2333/LiLite/releases/download/v1.0.45/LiLite-1.0.45-unsigned.ipa",
+      "size": 29104183,
+      "versionDate": "2026-11-28T02:50:14Z",
       "minOSVersion": "17.0"
     },
     {
